@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# NETFLIX CLONE
+
+#### NOTE: APP WILL ONLY WORK WHEN YOU ADD YOUR OWN API KEY IN requests.js FILE ALONG WITH END-POINTS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
